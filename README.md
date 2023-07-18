@@ -1,7 +1,7 @@
 # Report on Analysis of Fibonacci  Series
 * **Author**: Marian Padron
 * **Semester** Spring 2023
-* **Languages Used**: c, Python
+* **Languages Used**: C, Python
 
 ## Overview
 This report is a speed and code analysis of different algorithmic implementations used to compute the values in the Fibonacci sequence. The Fibonacci sequence is a set of positive integers in which a value at Nth position in the sequence is calculated by summing the preceding two numbers. The sequence can have its first element as either 0 or 1, but for the purposes of this report, 0 was used as the starting first number of the sequence. 
